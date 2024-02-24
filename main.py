@@ -1,10 +1,11 @@
+#Mayuresh Suryawanshi 2024/02/24 Assignment 2-2: Assigning Variables in Python
 # This program calculates your age in the year 2050.
 # Input:  None
 # Output: Your current age followed by your age in 2050
 
 # Create your variables here
 myCurrentAge = 19
-myNewAg = 0
+myNewAge = 0
 currentYear = 2024
 
 myNewAge = myCurrentAge + (2050 - currentYear)
